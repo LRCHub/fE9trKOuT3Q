@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "spiral",
+  "base_artist": "LONGMAN",
+  "createdAt": "2026-02-09T17:28:50.454947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Czar: Usurper/Escape/Martyr/Spiral",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/01_The_Czar__Usurper_Escape_Martyr_Spiral_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Downward Spiral",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/02_The_Downward_Spiral_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Downward Spiral (The Bottom)",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/03_The_Downward_Spiral_(The_Bottom)_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Downward Spiral (The Bottom)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/04_The_Downward_Spiral_(The_Bottom)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Losing You - Cortez Spiral Mix",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/05_Losing_You_-_Cortez_Spiral_Mix_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spiral/Disco (Outro)",
+      "artist": "Mike",
+      "has_synced": true,
+      "path": "select/06_Spiral_Disco_(Outro)_Mike.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spiral",
+      "artist": "Nujabes",
+      "has_synced": false,
+      "path": "select/07_Spiral_Nujabes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spiral Staircase",
+      "artist": "Kings of Leon",
+      "has_synced": true,
+      "path": "select/08_Spiral_Staircase_Kings_of_Leon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spiral Down",
+      "artist": "Cowboy Junkies",
+      "has_synced": false,
+      "path": "select/09_Spiral_Down_Cowboy_Junkies.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spiral Transit",
+      "artist": "Crystal Stilts",
+      "has_synced": false,
+      "path": "select/10_Spiral_Transit_Crystal_Stilts.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Downward Spiral",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/11_Downward_Spiral_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spiral Architect",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/12_Spiral_Architect_Black_Sabbath.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "spiral",
+      "artist": "LONGMAN",
+      "has_synced": false,
+      "path": "select/pl_01_spiral_LONGMAN.txt"
+    }
+  ]
+}
